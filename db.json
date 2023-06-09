@@ -1,0 +1,42 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "socialMediaName": "Facebook",
+        "socialMediaLink": "https://www.facebook.com",
+        "description": "Facebook is a social media platform."
+      },
+      {
+        "id": 2,
+        "socialMediaName": "Twitter",
+        "socialMediaLink": "https://www.twitter.com",
+        "description": "Twitter is a social media platform."
+      },
+      {
+        "id": 3,
+        "socialMediaName": "İnstagram",
+        "socialMediaLink": "https://www.instagram.com",
+        "description": "İnstagram is a social media platform."
+      },
+      {
+        "id": 4,
+        "socialMediaName": "Youtube",
+        "socialMediaLink": "https://www.youtube.com",
+        "description": "Youtube is a social media platform."
+      },
+      {
+        "id": 5,
+        "socialMediaName": "TikTok",
+        "socialMediaLink": "https://www.tiktok.com",
+        "description": "TikTok is a social media platform."
+      },
+      {
+        "id": 6,
+        "socialMediaName": "Snapchat",
+        "socialMediaLink": "https://www.snapcaht.com",
+        "description": "Snapchat is a social media platform."
+      }
+      
+    ]
+  }
+  
